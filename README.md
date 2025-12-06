@@ -9,22 +9,18 @@ Foundational ML algorithms implemented from scratch for learning and experimenta
 
 ### **KNN**
 - Distance metrics and k-value effects.
-- Visualization of classification boundaries.
 
 ### **Kernels**
 - Basic kernel similarity computations.
 
 ### **Naive Bayes**
 - Gaussian and Multinomial variants.
-- Notebook includes toy datasets and intuition.
 
 ### **Neural Networks**
 - Simple feed-forward networks with manual backpropagation.
-- Small-scale experiments for understanding learning dynamics.
 
 ### **Perceptron**
 - Binary classification with perceptron learning rule.
-- Includes visual demonstrations of linear separability.
 
 ---
 ## 📂 2. Computer Vision
